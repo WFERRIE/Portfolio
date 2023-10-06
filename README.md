@@ -5,6 +5,16 @@ Hi there! Below is a showcase of some of the projects I have worked on. Some of 
 ## 🧪 Machine Learning / Data Science
 These projects were all done as part of my Master's in Industrial Engineering. As some of them are for assignments which may still be used, I have chosen to omit some / all of the code depending on the project.
 
+### [Computer Vision for Fracture Detection](https://github.com/WFERRIE/FractureDetection/)
+This project was done for a deep learning course I took as part of my Master's. I worked with a team of three others to create a computer vision model that was capable of accurately detecting fractures in images of drill core samples. We achieved this using a fine-tuned [YOLOv8](https://github.com/ultralytics/ultralytics) model. 
+
+My contribution to the project was in the data cleaning and model creation. I first extracted all of the label information from the software my teammates used for labelling and reformatted it into the YOLO format. I created a train, validation, and test set, and imported a YOLOv8 model and performed 100 epochs of fine-tuning. The best model was selected based on the validation set and was evaluated for its precision-confidence curve and F1-confidence curve.
+
+Our final model performed very well on the test set and was even able to generalize to new data it had not seen before (other rock fractures we found on the internet). Overall we are very pleased with our results, and feel that with a larger dataset, even better results can be achieved.
+
+![test_batch0_pred](https://github.com/WFERRIE/Portfolio/assets/58156317/8f427eeb-65ad-4c31-8ae0-48a956371e4f)
+
+
 ### [$MSFT Daily Returns Prediction](https://github.com/WFERRIE/MSFT-Final-Project)
 This was done as a final project for an AI in Finance course I took. The goal of the project was to create a model which could trade on the open, and earn a positive return on MSFT. However, accurately predicting the future price of a stock is somewhat of a holy grail problem in finance, so the likelihood of being able to do so was/is very low. So in reality, rather than aiming to have a functioning model that can make me a lot of money, the actual aim of the project was to learn more about machine learning techniques in the financial domain.
 
