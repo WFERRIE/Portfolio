@@ -1,5 +1,5 @@
 ## Welcome
-Hi there! Below is a showcase of some of the projects I have worked on. Some of these were for school assignments, so I've gone ahead and redacted some of the code just in case those assignments are still being used.
+Hi there! Below is a showcase of some of the projects I have worked on and am able to share. Some of these were for school assignments, so I've gone ahead and redacted some of the code just in case those assignments are still being used.
 
 
 ## 🧪 Machine Learning / Data Science
