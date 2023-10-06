@@ -3,6 +3,16 @@ Hi there! Below is a showcase of some of the projects I have worked on. Some of 
 
 
 ## 🧪 Machine Learning / Data Science
+These projects were all done as part of my Master's in Industrial Engineering. As some of them are for assignments which may still be used, I have chosen to omit some / all of the code depending on the project.
+
+### [$MSFT Daily Returns Prediction](https://github.com/WFERRIE/MSFT-Final-Project)
+This was done as a final project for an AI in Finance course I took. The goal of the project was to create a model which could trade on the open, and earn a positive return on MSFT. However, accurately predicting the future price of a stock is somewhat of a holy grail problem in finance, so the likelihood of being able to do so was/is very low. So in reality, rather than aiming to have a functioning model that can make me a lot of money, the actual aim of the project was to learn more about machine learning techniques in the financial domain.
+
+In the project, the data was imported, cleaned, and explored. Then, pipelines were created for encoding, smoothing, and feature selection. 14 models were trained and evaluated using pipelines, and the two best models were then chosen to proceed and receive hyperparameter tuning. The final model was chosen, and its trading strategy was evaluated for its cumulative returns across the training set, and the test set. Finally, the CAGR, Phi K, Sharpe Ratio were all calculated to evaluate the model. 
+
+In the end (as expected), the final model earned positive returns, but was not able to consistently do so. However, through this process I learned a lot about financial modelling, and machine learning / statistical techniques within the world of finance. I also got an A+!
+
+![testreturns](https://user-images.githubusercontent.com/58156317/273281119-8b3a061e-ec7f-4ccd-a9ee-a395ad065d0a.png)
 
 ## 🤖 Mechatronics
 These projects were done in the final year of my undergrad. They were pretty challenging, and I lost a lot of sleep working on them, but I learned a ton, and they were a very rewarding experience. 
