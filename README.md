@@ -3,7 +3,7 @@ Hi there! Below is a showcase of some of the projects I have worked on. Some of 
 
 
 ## 🧪 Machine Learning / Data Science
-These projects were all done as part of my Master's in Industrial Engineering.
+These projects were all done as part of my Master's in Industrial Engineering and taught me a lot about data science and machine learning. I had a lot of fun working on them and did pretty well on them grade-wise.
 
 ### [Skills Clustering and Curriculum Design](https://github.com/WFERRIE/CurriculumDesign)
 ---
