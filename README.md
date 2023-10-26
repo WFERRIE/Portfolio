@@ -1,11 +1,11 @@
-## Welcome
+# Welcome
 Hi there! Below is a showcase of some of the projects I have worked on and am able to share. Some of these were for school assignments, so I've gone ahead and redacted some of the code just in case those assignments are still being used.
 
 
-## 🧪 Machine Learning / Data Science
+# 🧪 Machine Learning / Data Science
 These projects were all done as part of my Master's in Industrial Engineering and taught me a lot about data science and machine learning. I had a lot of fun working on them and did pretty well on them grade-wise.
 
-### [Skills Clustering and Curriculum Design](https://github.com/WFERRIE/CurriculumDesign)
+## [Skills Clustering and Curriculum Design](https://github.com/WFERRIE/CurriculumDesign)
 ---
 This project was completed for a Data Science course I took as part of my Master's. The project was to design a hypothetical curriculum for a "Master of Business and Management in Data Science and Artificial Intelligence" program by analyzing the current job market, and determining which skills are most relevant for such a program.
 
@@ -20,7 +20,7 @@ This was done in the following steps:
 
 
 
-### [Computer Vision for Fracture Detection](https://github.com/WFERRIE/FractureDetection/)
+## [Computer Vision for Fracture Detection](https://github.com/WFERRIE/FractureDetection/)
 ---
 This project was done for a deep learning course I took as part of my Master's. I worked with a team of three others to create a computer vision model that was capable of accurately detecting fractures in images of drill core samples. We achieved this using a fine-tuned [YOLOv8](https://github.com/ultralytics/ultralytics) model. 
 
@@ -31,7 +31,7 @@ Our final model performed very well on the test set and was even able to general
 ![test_batch0_pred](https://github.com/WFERRIE/Portfolio/assets/58156317/8f427eeb-65ad-4c31-8ae0-48a956371e4f)
 
 
-### [$MSFT Daily Returns Prediction](https://github.com/WFERRIE/MSFT-Final-Project)
+## [$MSFT Daily Returns Prediction](https://github.com/WFERRIE/MSFT-Final-Project)
 ---
 This was done as a final project for an AI in Finance course I took. The goal of the project was to create a model which could trade on the open, and earn a positive return on MSFT. However, accurately predicting the future price of a stock is somewhat of a holy grail problem in finance, so the likelihood of being able to do so was/is very low. So in reality, rather than aiming to have a functioning model that can make me a lot of money, the actual aim of the project was to learn more about machine learning techniques in the financial domain.
 
@@ -41,10 +41,16 @@ In the end (as expected), the final model earned positive returns but was not ab
 
 ![testreturns](https://user-images.githubusercontent.com/58156317/273281119-8b3a061e-ec7f-4ccd-a9ee-a395ad065d0a.png)
 
-## 🤖 Mechatronics
+
+## [8 Week SQL](https://github.com/WFERRIE/8-Week-SQL)
+---
+This is a repo containing my solutions for the [8 Week SQL Challenge](https://8weeksqlchallenge.com/), which I am working my way through to stay up to date on my SQL skills.
+
+
+# 🤖 Mechatronics
 These projects were done in the final year of my undergrad. They were pretty challenging, and I lost a lot of sleep working on them, but I learned a ton, and they were a very rewarding experience. 
 
-### [Pathfinding Robot](https://github.com/WFERRIE/MazeRover)
+## [Pathfinding Robot](https://github.com/WFERRIE/MazeRover)
 ---
 As part of a mechatronics class, myself and three friends created a robot capable of navigating a maze. More specifically, the robot had to:
 
@@ -59,14 +65,14 @@ The robot had to be designed and built totally from scratch, and we were graded 
 
 
 
-### [Robot Card Dealer](https://github.com/WFERRIE/RobotCardDealer)
+## [Robot Card Dealer](https://github.com/WFERRIE/RobotCardDealer)
 ---
 As part of a microcontrollers class, we had to use microcontrollers to perform some sort of task. Three friends and I thought it'd be fun to create a robot that dealt cards. We originally planned for it to also play Blackjack (serving as the dealer), but after we accidentally fried our Arduino Mega, we had to use two Arduino Unos. Unfortunately, with our new architecture Blackjack just wasn't feasible within our time constraints. However the robot was still able to deal a variable number of cards to a variable number of players, and we ended up with a great final grade!
 
 ![IMG_7864](https://github.com/WFERRIE/Portfolio/assets/58156317/4494d772-13b0-4a41-b440-4452064500e0)
 
 
-## ✨ Personal Projects
+# ✨ Personal Projects
 This is a list of a few projects I have done either for fun or just for the sake of learning.
 ### [Pathfinding Algorithm Visualizer](https://github.com/WFERRIE/PathfindingAlgorithmVisualizer)
 ---
@@ -75,7 +81,7 @@ I started this project after coming across [raylib](https://www.raylib.com/), a 
 ![enter image description here](https://github.com/WFERRIE/PathfindingAlgorithmVisualizer/blob/main/output.PNG?raw=true)
 
 
-### [Inventory Management System](https://github.com/WFERRIE/InventoryManagementSystem)
+## [Inventory Management System](https://github.com/WFERRIE/InventoryManagementSystem)
 ---
 This is an old project I did because I was interested in web development - It's a simple web app to keep track of inventory with CRUD functionality. It uses Bootstrap for front end, Flask for the backend, and SQLite for the database. 
 
