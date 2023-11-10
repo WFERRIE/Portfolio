@@ -14,8 +14,8 @@ Hello! Below is a showcase of some of the projects I have worked on. This is not
 ## 🤖 Robotics
 | Project | Tools | Description
 |--|--|--|
-| [Maze Delivery Robot](https://github.com/WFERRIE/MazeRover) |  C++, MATLAB, Arduino | Designed, built, and programmed a robot capable of driving around a maze with obstacle avoidance, localizing itself within the maze, finding and picking up a block, and delivering the block to a drop-off zone. |
-| [Robot Card Dealer](https://github.com/WFERRIE/RobotCardDealer) | C++, Arduino | Built a robot from scratch that can deal a variable number of cards to a variable number of players. |
+| [Maze Delivery Robot](https://github.com/WFERRIE/MazeRover) |  C++, MATLAB, Arduino | Designed, prototyped, built, and programmed a robot capable of driving around a maze with obstacle avoidance, localizing itself within the maze, finding and picking up a block, and delivering the block to a drop-off zone. |
+| [Robot Card Dealer](https://github.com/WFERRIE/RobotCardDealer) | C++, Arduino | Designed, prototyped, built, and programmed a robot that can deal a variable number of cards to a variable number of players. |
 
 
 ## ✨ Personal Projects
