@@ -19,10 +19,9 @@ Hello! Below is a showcase of some of the projects I have worked on. This is not
 | [Robot Card Dealer](https://github.com/WFERRIE/RobotCardDealer) | C++, Arduino | Designed, prototyped, built, and programmed a robot that can deal a variable number of cards to a variable number of players. |
 
 
-## ✨ Personal Projects
+## ✨ Misc Projects
 | Project | Tools | Description
 |--|--|--|
 | [Inventory Management System](https://github.com/WFERRIE/InventoryManagementSystem) | Python, Flask, Jinja, Bootstrap, SQLite | A simple webapp to keep track of inventory with CRUD functionality. |
-| [Pathfinding Algorithm Visualizer](https://github.com/WFERRIE/PathfindingAlgorithmVisualizer) |C++, raylib | A program to interactively visualize pathfinding algorithms, with ability to set start, end, and locked nodes. |
 
 
